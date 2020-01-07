@@ -1,0 +1,11 @@
+C:\Users\binarymage\Documents\C#\Array_Sort_Lib\Sort\bin\Debug\netcoreapp3.1\Array_Sorter_Lib.exe
+C:\Users\binarymage\Documents\C#\Array_Sort_Lib\Sort\bin\Debug\netcoreapp3.1\Array_Sorter_Lib.deps.json
+C:\Users\binarymage\Documents\C#\Array_Sort_Lib\Sort\bin\Debug\netcoreapp3.1\Array_Sorter_Lib.runtimeconfig.json
+C:\Users\binarymage\Documents\C#\Array_Sort_Lib\Sort\bin\Debug\netcoreapp3.1\Array_Sorter_Lib.runtimeconfig.dev.json
+C:\Users\binarymage\Documents\C#\Array_Sort_Lib\Sort\bin\Debug\netcoreapp3.1\Array_Sorter_Lib.dll
+C:\Users\binarymage\Documents\C#\Array_Sort_Lib\Sort\bin\Debug\netcoreapp3.1\Array_Sorter_Lib.pdb
+C:\Users\binarymage\Documents\C#\Array_Sort_Lib\Sort\obj\Debug\netcoreapp3.1\Array_Sorter_Lib.csprojAssemblyReference.cache
+C:\Users\binarymage\Documents\C#\Array_Sort_Lib\Sort\obj\Debug\netcoreapp3.1\Array_Sorter_Lib.AssemblyInfoInputs.cache
+C:\Users\binarymage\Documents\C#\Array_Sort_Lib\Sort\obj\Debug\netcoreapp3.1\Array_Sorter_Lib.AssemblyInfo.cs
+C:\Users\binarymage\Documents\C#\Array_Sort_Lib\Sort\obj\Debug\netcoreapp3.1\Array_Sorter_Lib.dll
+C:\Users\binarymage\Documents\C#\Array_Sort_Lib\Sort\obj\Debug\netcoreapp3.1\Array_Sorter_Lib.pdb

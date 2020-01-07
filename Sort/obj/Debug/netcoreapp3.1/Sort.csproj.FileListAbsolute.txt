@@ -1,0 +1,11 @@
+C:\Users\binarymage\Documents\C#\Sort\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.csprojAssemblyReference.cache
+C:\Users\binarymage\Documents\C#\Sort\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfoInputs.cache
+C:\Users\binarymage\Documents\C#\Sort\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfo.cs
+C:\Users\binarymage\Documents\C#\Sort\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.exe
+C:\Users\binarymage\Documents\C#\Sort\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.deps.json
+C:\Users\binarymage\Documents\C#\Sort\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.json
+C:\Users\binarymage\Documents\C#\Sort\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.dev.json
+C:\Users\binarymage\Documents\C#\Sort\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.dll
+C:\Users\binarymage\Documents\C#\Sort\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.pdb
+C:\Users\binarymage\Documents\C#\Sort\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.dll
+C:\Users\binarymage\Documents\C#\Sort\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.pdb
